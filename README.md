@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my startup, Droiddev<br>👯 I’m looking to collaborate on Android Projects<br>🌱 I’m currently learning how to build System level apps<br>⚡ Fun fact, I am a limited edition Hot Boy 🤣
+🔭 I’m currently working on my startup, Droiddev<br>👯 I’m looking to collaborate on Android Projects<br>🌱 I’m currently learning how to build System level apps<br>⚡ Fun fact, I myself is a fun fact
 
 
 ## 🌐 Socials:
